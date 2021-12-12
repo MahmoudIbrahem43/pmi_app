@@ -1,2 +1,2 @@
 # pmi_app
- BMI app showing result according your wright and age
+ BMI app showing result according your weight and age
